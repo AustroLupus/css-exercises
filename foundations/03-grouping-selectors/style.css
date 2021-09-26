@@ -1,0 +1,12 @@
+.theFirst,
+.theSecond {
+    font-size: 28px;
+    font-family: Helvetica,"Times New Roman",sans-serif;
+}
+.theFirst {
+    background-color: black;
+    color: white;
+}
+.theSecond{
+    background-color: yellow;
+}
