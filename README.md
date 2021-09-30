@@ -33,7 +33,7 @@ These exercises should be done when instructed during the course of the curricul
 
 2. Margin and Padding:
   - [x] margin-and-padding-1
-  - [ ] margin-and-padding-2
+  - [x] margin-and-padding-2
  
 3. Flex:
   - [ ] 01-flex-center
